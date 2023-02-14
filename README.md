@@ -1,4 +1,4 @@
-# coced4c2f9efff10d5ec71a0a
+# React simple business card static webpage
 
 Quick start:
 
